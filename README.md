@@ -1,4 +1,4 @@
-# It Takes a Village: The Impact of Social Groups on Future Outcomes
+# It Takes a Village: Impact of Social Groups on Future Outcomes
 
 **Matthew Song**\
 UC Berkeley\
@@ -15,10 +15,12 @@ This paper has a two-fold purpose:
 
 ## Data and Methodology
 
-I utilize data obtained from the [National Longitudinal Survey of Youth 1997 Cohort (NLSY97)](https://www.bls.gov/nls/nlsy97.htm), which is a representative longitudinal survey of American youth ages 12-18 in 1997. Within the data, in addition to standard demographic characteristics, I am also able to obtain survey responses (typically reported on the Likert scale) to determine an individual's assessment of their family and friends/peers/school, as well as self-assessments.\
+I utilize data obtained from the [National Longitudinal Survey of Youth 1997 Cohort (NLSY97)](https://www.bls.gov/nls/nlsy97.htm), which is a representative longitudinal survey of American youth ages 12-18 in 1997. Within the data, in addition to standard demographic characteristics, I am also able to obtain survey responses (typically reported on the Likert scale) to determine an individual's assessment of their family and friends/peers/school, as well as self-assessments.
+
 I utilize both **Ordinary Least Squares (OLS)** regression as well as **Logistic Regression** to identify those variables which strongly influence future income and college graduation rate.
 
-Finally, I extend the project to consider various **regression-based machine learning predictive methods** to try and identify at-risk youth (classified as those who would not graduate from college, or have income below the poverty line).\
+Finally, I extend the project to consider various **regression-based machine learning predictive methods** to try and identify at-risk youth (classified as those who would not graduate from college, or have income below the poverty line).
+
 I utilize **OLS, Ridge, and LASSO** along with threshold modification strategies to tune these predictive models. For Ridge and Lasso, I use **10-fold cross validation to tune hyperparameters**. I also implement a threshold adjustment tuning mechanism for classification via grid search to try and improve model performance. This is because for binary classification, typically by default one uses an 0.5 threshold to assign a predictive outcome, but this might not be optimal from a policy perspective. In this scenario, **Type II errors** (false negatives; mis-identifying an at-risk youth to be not-at-risk) are more harmful to society than **Type I errors** (false positives; mis-identifying a not-at-risk youth to be at-risk) for obvious reasons. 
 
 ## Headline Results
@@ -52,8 +54,9 @@ From this paper, one takeaway that combines the inferential and predictive eleme
 
 ### Downloading NLSY97 Data
 
-*Instructions valid as of: April 2023*\
-Note that a copy of the dataset has already been provided based on the following instructions within this repository.\
+*Instructions valid as of: April 2023*
+
+Note that a copy of the dataset has already been provided based on the following instructions within this repository.
 If you would like to re-create the steps to obtain a fresh copy of the raw data, please see the following steps.
 
 1. Tagset list used for this paper is provided in [./Programs/varlist.NLSY97](ADD LINK LATER)
