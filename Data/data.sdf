@@ -1,0 +1,97 @@
+
+
+Reference
+Number     Year  Variable Description                                      Question Name               
+---------------------------------------------------------------------------------------------------------
+R00001.00  1997  PUBID, YOUTH CASE IDENTIFICATION CODE                     PUBID                       
+R00689.00  1997  R HAD SOMETHING STOLEN FROM SCHOOL                        YSCH-35900                  
+R00690.00  1997  R THREATENED TO BE HURT AT SCHOOL                         YSCH-36000                  
+R00691.00  1997  R IN A FIGHT AT SCHOOL                                    YSCH-36100                  
+R00692.00  1997  R LATE FOR SCHOOL WITHOUT EXCUSE                          YSCH-36200                  
+R00693.00  1997  # DAYS R ABSENT FROM SCHOOL?                              YSCH-36300                  
+R00694.00  1997  TEACHERS GOOD (AGREE/DISAGREE)                            YSCH-36400                  
+R00695.00  1997  TEACHERS INTERESTED IN STUDENTS AGREE/DISAGREE            YSCH-36500                  
+R00696.00  1997  STUDENTS DISRUPT LEARNING AGREE/DISAGREE                  YSCH-36600                  
+R00697.00  1997  STUDENTS GRADED FAIRLY AGREE/DISAGREE                     YSCH-36700                  
+R00698.00  1997  CHEAT ON TEST AND ASSIGNMENT (AGREE/DISAGREE)             YSCH-36800                  
+R00699.00  1997  DISCIPLINE IS FAIR AGREE/DISAGREE                         YSCH-36900                  
+R00700.00  1997  FEEL SAFE AT SCHOOL AGREE/DISAGREE                        YSCH-37000                  
+R00703.00  1997  PERCENT OF PEERS WHO GO TO CHURCH REGULARLY               YPRS-600                    
+R00704.00  1997  PERCENT OF PEERS WHO SMOKE                                YPRS-700                    
+R00705.00  1997  PERCENT OF PEERS WHO GET DRUNK 1+ TIMES A MONTH           YPRS-800                    
+R00706.00  1997  PERCENT PEERS IN SPORTS, CLUBS, SCHOOL ACTIVITIES         YPRS-900                    
+R00707.00  1997  PERCENT OF PEERS BELONG TO A GANG                         YPRS-1000                   
+R00708.00  1997  PERCENT PEERS WHO PLAN TO GO TO COLLEGE                   YPRS-1100                   
+R00709.00  1997  PERCENT OF PEERS WHO DO VOLUNTEER WORK                    YPRS-1200                   
+R00710.00  1997  PERCENT PEERS USE ILLEGAL DRUGS                           YPRS-1300                   
+R00711.00  1997  PERCENT OF PEERS WHO CUT CLASSES OR SCHOOL                YPRS-1400                   
+R03241.00  1997  R LIVE WITH MOTHER/FIGURE?                                YSAQ-013                    
+R03257.00  1997  MOTHER SUPPORTIVE, SOMEWHAT, NOT SUPPORTIVE TOWARD R?     YSAQ-032                    
+R03258.00  1997  MOTHER PERMISSIVE OR STRICT?                              YSAQ-033                    
+R03259.00  1997  R LIVE WITH FATHER (FIGURE)?                              YSAQ-034                    
+R03275.00  1997  FATHER SUPPORTIVE, SOMEWHAT, NOT SUPPORTIVE TOWARD R?     YSAQ-053                    
+R03276.00  1997  FATHER PERMISSIVE OR STRICT?                              YSAQ-054                    
+R03565.00  1997  R LIES OR CHEATS (FEMALE)                                 YSAQ-343                    
+R03568.00  1997  R UNHAPPY, SAD, DEPRESSED (FEMALE)                        YSAQ-346                    
+R03571.00  1997  R LIES OR CHEATS (MALE)                                   YSAQ-349                    
+R03572.00  1997  R UNHAPPY, SAD, DEPRESSED (MALE)                          YSAQ-350                    
+R03575.00  1997  R EXPECTS BEST IN UNCERTAIN TIMES (AGREE/DISAGREE)        YSAQ-354                    
+R03576.00  1997  R RARELY EXPECTS GOOD THINGS (AGREE/DISAGREE)             YSAQ-355                    
+R03577.00  1997  R OPTIMISTIC ABOUT FUTURE (AGREE/DISAGREE)                YSAQ-356                    
+R03578.00  1997  HARDLY EXPECT THINGS TO GO RS WAY (AGREE/DISAGREE)        YSAQ-357                    
+R04439.00  1997  HOUSE OR APARTMENT BROKEN INTO < 12 YEARS OLD?            YSAQ-517                    
+R04440.00  1997  R VICTIM OF BULLYING < 12 YEARS OLD?                      YSAQ-518                    
+R04441.00  1997  R SEE SOMEONE SHOT WITH GUN < 12 YEARS OLD?               YSAQ-519                    
+R05363.00  1997  KEY!SEX, RS GENDER (SYMBOL)                               KEY!SEX                     
+R05364.01  1997  KEY!BDATE, RS BIRTHDATE MONTH/YEAR (SYMBOL)               KEY!BDATE_M                 
+R05364.02  1997  KEY!BDATE, RS BIRTHDATE MONTH/YEAR (SYMBOL)               KEY!BDATE_Y                 
+R11941.00  1997  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+R12049.00  1997  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+R12055.00  1997  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+R12358.00  1997  SAMPLE TYPE.  CROSS-SECTIONAL OR OVERSAMPLE               CV_SAMPLE_TYPE              
+R13026.00  1997  RESIDENTIAL FATHERS HIGHEST GRADE COMPLETED               CV_HGC_RES_DAD              
+R13027.00  1997  RESIDENTIAL MOTHERS HIGHEST GRADE COMPLETED               CV_HGC_RES_MOM              
+R14826.00  1997  KEY!RACE_ETHNICITY, COMBINED RACE AND ETHNICITY (SYMBOL)  KEY!RACE_ETHNICITY          
+R25535.00  1998  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+R25635.00  1998  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+R25638.00  1998  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+R38763.00  1999  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+R38851.00  1999  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+R38854.00  1999  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+R54537.00  2000  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+R54643.00  2000  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+R54646.00  2000  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+R72160.00  2001  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+R72280.00  2001  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+R72283.00  2001  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+S15314.00  2002  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+S15419.00  2002  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+S15422.00  2002  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+S20010.00  2003  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+S20117.00  2003  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+S20120.00  2003  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+S20122.01  2003  HIGHEST DEGREE RECEIVED EDT                               CV_HIGHEST_DEGREE_EVER_EDT  
+S38011.00  2004  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+S38125.00  2004  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+S38135.00  2004  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+S38137.01  2004  HIGHEST DEGREE RECEIVED EDT                               CV_HIGHEST_DEGREE_EVER_EDT  
+S54010.00  2005  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+S54129.00  2005  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+S54131.00  2005  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+S54133.00  2005  HIGHEST DEGREE RECEIVED                                   CV_HIGHEST_DEGREE_EVER_EDT  
+S75012.00  2006  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+S75138.00  2006  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+S75140.00  2006  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+S75142.00  2006  HIGHEST DEGREE RECEIVED                                   CV_HIGHEST_DEGREE_EVER_EDT  
+T00085.00  2007  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+T00142.00  2007  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+T00144.00  2007  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+T00146.00  2007  HIGHEST DEGREE RECEIVED                                   CV_HIGHEST_DEGREE_EVER_EDT  
+T20111.00  2008  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+T20163.00  2008  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+T20165.00  2008  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+T20167.00  2008  HIGHEST DEGREE RECEIVED                                   CV_HIGHEST_DEGREE_EVER_EDT  
+T36015.00  2009  RS AGE AT INTERVIEW DATE                                  CV_AGE_INT_DATE             
+T36066.00  2009  RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL                CV_HH_POV_RATIO             
+T36068.00  2009  NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18                  CV_HH_UNDER_18              
+T36070.00  2009  HIGHEST DEGREE RECEIVED                                   CV_HIGHEST_DEGREE_EVER_EDT  

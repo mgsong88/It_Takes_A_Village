@@ -1,0 +1,3090 @@
+R00001.00    [PUBID]                                        Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PUBID, YOUTH CASE IDENTIFICATION CODE
+ 
+COMMENT: YOUTH CASE IDENTIFICATION CODE
+ 
+       0           0
+     998           1 TO 999
+     999        1000 TO 1999
+     997        2000 TO 2999
+     996        3000 TO 3999
+     998        4000 TO 4999
+     996        5000 TO 5999
+     994        6000 TO 6999
+     994        7000 TO 7999
+     989        8000 TO 8999
+      23        9000 TO 9999
+  -------
+    8984
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:           9022        Mean:              4504.3
+ 
+Lead In: R72976.00[Default]
+Default Next Question: R05363.00
+--------------------------------------------------------------------------------
+R00689.00    [YSCH-35900]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R HAD SOMETHING STOLEN FROM SCHOOL
+ 
+... I had something of value stolen from me at school.
+ 
+UNIVERSE: R has been enrolled in regular school; currently enrolled in K-12 
+school
+ 
+    6680           0
+    2070           1 TO 4
+      82           5 TO 9
+      24          10 TO 14
+       4          15 TO 19
+      10          20 TO 24
+       0          25 TO 29
+       1          30 TO 34
+       0          35 TO 39
+       0          40 TO 44
+       0          45 TO 49
+       0          50 TO 99999999: 50+
+  -------
+    8871
+ 
+Refusal(-1)            1
+Don't Know(-2)         7
+TOTAL =========>    8879   VALID SKIP(-4)     105     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:             30        Mean:                 .47
+ 
+Lead In: R00688.00[Default]
+Default Next Question: R00690.00
+--------------------------------------------------------------------------------
+R00690.00    [YSCH-36000]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R THREATENED TO BE HURT AT SCHOOL
+ 
+... Someone threatened to hurt me at school.
+ 
+UNIVERSE: R has been enrolled in regular school; currently enrolled in K-12 
+school
+ 
+    7019           0
+    1445           1 TO 4
+     195           5 TO 9
+      91          10 TO 14
+      30          15 TO 19
+      32          20 TO 24
+       7          25 TO 29
+      18          30 TO 34
+       1          35 TO 39
+       2          40 TO 44
+       2          45 TO 49
+      27          50 TO 99999999: 50+
+  -------
+    8869
+ 
+Refusal(-1)            1
+Don't Know(-2)         9
+TOTAL =========>    8879   VALID SKIP(-4)     105     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:             99        Mean:                 .98
+ 
+Lead In: R00689.00[Default]
+Default Next Question: R00691.00
+--------------------------------------------------------------------------------
+R00691.00    [YSCH-36100]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R IN A FIGHT AT SCHOOL
+ 
+... I got into a physical fight at school.
+ 
+UNIVERSE: R has been enrolled in regular school; currently enrolled in K-12 
+school
+ 
+    7310           0
+    1428           1 TO 4
+      82           5 TO 9
+      30          10 TO 14
+       6          15 TO 19
+       8          20 TO 24
+       3          25 TO 29
+       1          30 TO 34
+       0          35 TO 39
+       1          40 TO 44
+       0          45 TO 49
+       3          50 TO 99999999: 50+
+  -------
+    8872
+ 
+Refusal(-1)            0
+Don't Know(-2)         7
+TOTAL =========>    8879   VALID SKIP(-4)     105     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:             50        Mean:                  .4
+ 
+Lead In: R00690.00[Default]
+Default Next Question: R00692.00
+--------------------------------------------------------------------------------
+R00692.00    [YSCH-36200]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R LATE FOR SCHOOL WITHOUT EXCUSE
+ 
+... I was late for school without an excuse.
+ 
+UNIVERSE: R has been enrolled in regular school; currently enrolled in K-12 
+school
+ 
+    5341           0
+    2236           1 TO 4
+     618           5 TO 9
+     269          10 TO 14
+     105          15 TO 19
+     113          20 TO 24
+      24          25 TO 29
+      42          30 TO 34
+       6          35 TO 39
+      14          40 TO 44
+       9          45 TO 49
+      44          50 TO 99999999: 50+
+  -------
+    8821
+ 
+Refusal(-1)            3
+Don't Know(-2)        55
+TOTAL =========>    8879   VALID SKIP(-4)     105     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:             99        Mean:                 2.4
+ 
+Lead In: R00691.00[Default]
+Default Next Question: R00693.00
+--------------------------------------------------------------------------------
+R00693.00    [YSCH-36300]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             # DAYS R ABSENT FROM SCHOOL?
+ 
+How many days were you absent from school during the Fall term?
+ 
+UNIVERSE: R has been enrolled in regular school; currently enrolled in K-12 
+school
+ 
+    1681           0
+    3955           1 TO 4
+    1844           5 TO 9
+     630          10 TO 14
+     207          15 TO 19
+     146          20 TO 24
+      56          25 TO 29
+      74          30 TO 34
+      22          35 TO 39
+      26          40 TO 44
+       8          45 TO 49
+      38          50 TO 99999999: 50+
+  -------
+    8687
+ 
+Refusal(-1)            4
+Don't Know(-2)       188
+TOTAL =========>    8879   VALID SKIP(-4)     105     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:            200        Mean:                4.89
+ 
+Lead In: R00692.00[Default]
+Default Next Question: R00694.00
+--------------------------------------------------------------------------------
+R00694.00    [YSCH-36400]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             TEACHERS GOOD (AGREE/DISAGREE)
+ 
+Thinking about your (last) school in general, how much do you agree with each of
+the following statements about your school and teachers?
+ 
+... The teachers are good. Do you strongly agree, agree, disagree, or strongly 
+disagree?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    1573       1 Strongly agree
+    6192       2 Agree
+     964       3 Disagree
+     236       4 Strongly Disagree
+  -------
+    8965
+ 
+Refusal(-1)            2
+Don't Know(-2)         3
+TOTAL =========>    8970   VALID SKIP(-4)      14     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                1.98
+ 
+Lead In: R00693.00[Default]  R00688.00[1:1]
+Default Next Question: R00695.00
+--------------------------------------------------------------------------------
+R00695.00    [YSCH-36500]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             TEACHERS INTERESTED IN STUDENTS AGREE/DISAGREE
+ 
+... The teachers are interested in the students.
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    2115       1 Strongly agree
+    5513       2 Agree
+    1171       3 Disagree
+     159       4 Strongly Disagree
+  -------
+    8958
+ 
+Refusal(-1)            1
+Don't Know(-2)        11
+TOTAL =========>    8970   VALID SKIP(-4)      14     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                1.93
+ 
+Lead In: R00694.00[Default]
+Default Next Question: R00696.00
+--------------------------------------------------------------------------------
+R00696.00    [YSCH-36600]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             STUDENTS DISRUPT LEARNING AGREE/DISAGREE
+ 
+... Disruptions by other students [get/gets] in the way of my learning.
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    1940       1 Strongly agree
+    3625       2 Agree
+    2904       3 Disagree
+     495       4 Strongly Disagree
+  -------
+    8964
+ 
+Refusal(-1)            2
+Don't Know(-2)         4
+TOTAL =========>    8970   VALID SKIP(-4)      14     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                2.22
+ 
+Lead In: R00695.00[Default]
+Default Next Question: R00697.00
+--------------------------------------------------------------------------------
+R00697.00    [YSCH-36700]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             STUDENTS GRADED FAIRLY AGREE/DISAGREE
+ 
+... Students are graded fairly.
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    2086       1 Strongly agree
+    5193       2 Agree
+    1436       3 Disagree
+     241       4 Strongly Disagree
+  -------
+    8956
+ 
+Refusal(-1)            1
+Don't Know(-2)        13
+TOTAL =========>    8970   VALID SKIP(-4)      14     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                1.98
+ 
+Lead In: R00696.00[Default]
+Default Next Question: R00698.00
+--------------------------------------------------------------------------------
+R00698.00    [YSCH-36800]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             CHEAT ON TEST AND ASSIGNMENT (AGREE/DISAGREE)
+ 
+... There is a lot of cheating on tests and assignments.
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    1927       1 Strongly agree
+    3347       2 Agree
+    2903       3 Disagree
+     715       4 Strongly Disagree
+  -------
+    8892
+ 
+Refusal(-1)            2
+Don't Know(-2)        76
+TOTAL =========>    8970   VALID SKIP(-4)      14     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                2.27
+ 
+Lead In: R00697.00[Default]
+Default Next Question: R00699.00
+--------------------------------------------------------------------------------
+R00699.00    [YSCH-36900]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             DISCIPLINE IS FAIR AGREE/DISAGREE
+ 
+... Discipline is fair.
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    1469       1 Strongly agree
+    4932       2 Agree
+    1949       3 Disagree
+     593       4 Strongly Disagree
+  -------
+    8943
+ 
+Refusal(-1)            3
+Don't Know(-2)        24
+TOTAL =========>    8970   VALID SKIP(-4)      14     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                2.19
+ 
+Lead In: R00698.00[Default]
+Default Next Question: R00700.00
+--------------------------------------------------------------------------------
+R00700.00    [YSCH-37000]                                   Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             FEEL SAFE AT SCHOOL AGREE/DISAGREE
+ 
+... I [feel /felt] safe at this school.
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    2798       1 Strongly agree
+    4870       2 Agree
+    1018       3 Disagree
+     273       4 Strongly Disagree
+  -------
+    8959
+ 
+Refusal(-1)            2
+Don't Know(-2)         9
+TOTAL =========>    8970   VALID SKIP(-4)      14     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                1.86
+ 
+Lead In: R00699.00[Default]
+Default Next Question: R00701.00
+--------------------------------------------------------------------------------
+R00703.00    [YPRS-600]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT OF PEERS WHO GO TO CHURCH REGULARLY
+ 
+(HAND CARD K)
+ 
+What percentage of kids [in your grade /in your grade when you were last in 
+school] ...
+ 
+... [go /went] to church or religious services on a regular basis?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    1193       1 1.  Almost none (less than 10%)
+    2599       2 2.  About 25%
+    2835       3 3.  About half (50%)
+    1538       4 4.  About 75%
+     616       5 5.  Almost all (more than 90%)
+  -------
+    8781
+ 
+Refusal(-1)            3
+Don't Know(-2)       193
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                2.75
+ 
+Lead In: R00702.00[Default]
+Default Next Question: R00704.00
+--------------------------------------------------------------------------------
+R00704.00    [YPRS-700]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT OF PEERS WHO SMOKE
+ 
+(HAND CARD K)
+ 
+... [smoke /smoked] cigarettes?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    2322       1 1.  Almost none (less than 10%)
+    1966       2 2.  About 25%
+    2172       3 3.  About half (50%)
+    1657       4 4.  About 75%
+     754       5 5.  Almost all (more than 90%)
+  -------
+    8871
+ 
+Refusal(-1)            2
+Don't Know(-2)       104
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                2.61
+ 
+Lead In: R00703.00[Default]
+Default Next Question: R00705.00
+--------------------------------------------------------------------------------
+R00705.00    [YPRS-800]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT OF PEERS WHO GET DRUNK 1+ TIMES A MONTH
+ 
+(HAND CARD K)
+ 
+... [get /got] drunk at least once a month?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    3846       1 1.  Almost none (less than 10%)
+    1890       2 2.  About 25%
+    1571       3 3.  About half (50%)
+    1003       4 4.  About 75%
+     489       5 5.  Almost all (more than 90%)
+  -------
+    8799
+ 
+Refusal(-1)            1
+Don't Know(-2)       177
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                2.14
+ 
+Lead In: R00704.00[Default]
+Default Next Question: R00706.00
+--------------------------------------------------------------------------------
+R00706.00    [YPRS-900]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT PEERS IN SPORTS, CLUBS, SCHOOL ACTIVITIES
+ 
+(HAND CARD K)
+ 
+... [participate /participated] in organized sports, clubs, or school 
+activities?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+     265       1 1.  Almost none (less than 10%)
+     895       2 2.  About 25%
+    2457       3 3.  About half (50%)
+    3068       4 4.  About 75%
+    2258       5 5.  Almost all (more than 90%)
+  -------
+    8943
+ 
+Refusal(-1)            1
+Don't Know(-2)        33
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                3.69
+ 
+Lead In: R00705.00[Default]
+Default Next Question: R00707.00
+--------------------------------------------------------------------------------
+R00707.00    [YPRS-1000]                                    Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT OF PEERS BELONG TO A GANG
+ 
+(HAND CARD K)
+ 
+... [belong /belonged] to a gang that does illegal activities?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    5690       1 1.  Almost none (less than 10%)
+    1829       2 2.  About 25%
+     698       3 3.  About half (50%)
+     364       4 4.  About 75%
+     231       5 5.  Almost all (more than 90%)
+  -------
+    8812
+ 
+Refusal(-1)            2
+Don't Know(-2)       163
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                1.59
+ 
+Lead In: R00706.00[Default]
+Default Next Question: R00708.00
+--------------------------------------------------------------------------------
+R00708.00    [YPRS-1100]                                    Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT PEERS WHO PLAN TO GO TO COLLEGE
+ 
+(HAND CARD K)
+ 
+... [plan /planned] to go to college?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+     354       1 1.  Almost none (less than 10%)
+    1051       2 2.  About 25%
+    2596       3 3.  About half (50%)
+    2927       4 4.  About 75%
+    1938       5 5.  Almost all (more than 90%)
+  -------
+    8866
+ 
+Refusal(-1)            1
+Don't Know(-2)       110
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                3.57
+ 
+Lead In: R00707.00[Default]
+Default Next Question: R00709.00
+--------------------------------------------------------------------------------
+R00709.00    [YPRS-1200]                                    Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT OF PEERS WHO DO VOLUNTEER WORK
+ 
+(HAND CARD K)
+ 
+... [do /did] volunteer work?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    3198       1 1.  Almost none (less than 10%)
+    3040       2 2.  About 25%
+    1593       3 3.  About half (50%)
+     609       4 4.  About 75%
+     398       5 5.  Almost all (more than 90%)
+  -------
+    8838
+ 
+Refusal(-1)            1
+Don't Know(-2)       138
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                2.09
+ 
+Lead In: R00708.00[Default]
+Default Next Question: R00710.00
+--------------------------------------------------------------------------------
+R00710.00    [YPRS-1300]                                    Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT PEERS USE ILLEGAL DRUGS
+ 
+(HAND CARD K)
+ 
+... [have /ever] used marijuana, inhalants, or other drugs?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    3328       1 1.  Almost none (less than 10%)
+    1942       2 2.  About 25%
+    1671       3 3.  About half (50%)
+    1102       4 4.  About 75%
+     715       5 5.  Almost all (more than 90%)
+  -------
+    8758
+ 
+Refusal(-1)            1
+Don't Know(-2)       218
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                2.31
+ 
+Lead In: R00709.00[Default]
+Default Next Question: R00711.00
+--------------------------------------------------------------------------------
+R00711.00    [YPRS-1400]                                    Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             PERCENT OF PEERS WHO CUT CLASSES OR SCHOOL
+ 
+(HAND CARD K)
+ 
+... cut classes or skip school?
+ 
+UNIVERSE: R has been enrolled in regular school
+ 
+    2770       1 1.  Almost none (less than 10%)
+    2421       2 2.  About 25%
+    1800       3 3.  About half (50%)
+    1176       4 4.  About 75%
+     753       5 5.  Almost all (more than 90%)
+  -------
+    8920
+ 
+Refusal(-1)            1
+Don't Know(-2)        56
+Invalid Skip(-3)       1
+TOTAL =========>    8978   VALID SKIP(-4)       6     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              5        Mean:                2.41
+ 
+Lead In: R00710.00[Default]
+Default Next Question: R00713.00
+--------------------------------------------------------------------------------
+R03241.00    [YSAQ-013]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R LIVE WITH MOTHER/FIGURE?
+ 
+Do you live with either your mother or a mother figure?
+ 
+UNIVERSE: All
+ 
+    8608       1 Yes   (Go To R03242.00)
+     364       0 No
+  -------
+    8972
+ 
+Refusal(-1)            6
+Don't Know(-2)         4
+Invalid Skip(-3)       2
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              1        Mean:                 .96
+ 
+Lead In: R03230.00[Default] R03235.00[Default] R03240.00[Default]
+Default Next Question: R03259.00
+--------------------------------------------------------------------------------
+R03257.00    [YSAQ-032]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             MOTHER SUPPORTIVE, SOMEWHAT, NOT SUPPORTIVE TOWARD R?
+ 
+When you think about how she acts toward you, in general, would you say she is 
+very supportive, somewhat supportive, or not very supportive?
+ 
+UNIVERSE: R lives with mother/mother figure
+ 
+    6646       1 VERY SUPPORTIVE
+    1772       2 SOMEWHAT  SUPPORTIVE
+     189       3 NOT VERY  SUPPORTIVE
+  -------
+    8607
+ 
+Refusal(-1)            1
+Don't Know(-2)         0
+Invalid Skip(-3)       2
+TOTAL =========>    8610   VALID SKIP(-4)     374     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              3        Mean:                1.25
+ 
+Lead In: R03243.00[Default] R03255.00[Default] R03256.00[Default]
+Default Next Question: R03258.00
+--------------------------------------------------------------------------------
+R03258.00    [YSAQ-033]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             MOTHER PERMISSIVE OR STRICT?
+ 
+In general, would you say she is permissive or strict about making sure you did 
+what you were supposed to do?
+ 
+UNIVERSE: R lives with mother/mother figure
+ 
+    3889       1 PERMISSIVE
+    4691       2 STRICT
+  -------
+    8580
+ 
+Refusal(-1)            1
+Don't Know(-2)        27
+Invalid Skip(-3)       2
+TOTAL =========>    8610   VALID SKIP(-4)     374     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              2        Mean:                1.55
+ 
+Lead In: R03257.00[Default]
+Default Next Question: R03259.00
+--------------------------------------------------------------------------------
+R03259.00    [YSAQ-034]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R LIVE WITH FATHER (FIGURE)?
+ 
+Do you live with either your father or a father figure?
+ 
+UNIVERSE: All
+ 
+    6442       1 Yes   (Go To R03260.00)
+    2526       0 No
+  -------
+    8968
+ 
+Refusal(-1)            7
+Don't Know(-2)         7
+Invalid Skip(-3)       2
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              1        Mean:                 .72
+ 
+Lead In: R03241.00[Default] R03258.00[Default]
+Default Next Question: R03277.00
+--------------------------------------------------------------------------------
+R03275.00    [YSAQ-053]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             FATHER SUPPORTIVE, SOMEWHAT, NOT SUPPORTIVE TOWARD R?
+ 
+When you think about how he acts toward you, in general, would you say he is 
+very supportive, somewhat supportive, or not very supportive?
+ 
+UNIVERSE: R lives with father/father figure
+ 
+    4355       1 VERY SUPPORTIVE
+    1785       2 SOMEWHAT  SUPPORTIVE
+     296       3 NOT VERY  SUPPORTIVE
+  -------
+    6436
+ 
+Refusal(-1)            0
+Don't Know(-2)         6
+Invalid Skip(-3)       1
+TOTAL =========>    6443   VALID SKIP(-4)    2541     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              3        Mean:                1.37
+ 
+Lead In: R03261.00[Default] R03273.00[Default] R03274.00[Default]
+Default Next Question: R03276.00
+--------------------------------------------------------------------------------
+R03276.00    [YSAQ-054]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             FATHER PERMISSIVE OR STRICT?
+ 
+In general, would you say he is permissive or strict about making sure you did 
+what you were supposed to do?
+ 
+UNIVERSE: R lives with father/father figure
+ 
+    2651       1 PERMISSIVE
+    3774       2 STRICT
+  -------
+    6425
+ 
+Refusal(-1)            0
+Don't Know(-2)        17
+Invalid Skip(-3)       1
+TOTAL =========>    6443   VALID SKIP(-4)    2541     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              2        Mean:                1.59
+ 
+Lead In: R03275.00[Default]
+Default Next Question: R03277.00
+--------------------------------------------------------------------------------
+R03565.00    [YSAQ-343]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R LIES OR CHEATS (FEMALE)
+ 
+You lie or cheat.
+ 
+Copyright Items: TM Achenbach. Reproduced by Permission
+ 
+UNIVERSE: R <= 14 at end of prev year; is female
+ 
+    1159       0 NOT TRUE
+    1332       1 SOMEWHAT/SOMETIMES TRUE
+     118       2 OFTEN TRUE
+  -------
+    2609
+ 
+Refusal(-1)            4
+Don't Know(-2)         0
+Invalid Skip(-3)       7
+TOTAL =========>    2620   VALID SKIP(-4)    6364     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              2        Mean:                  .6
+ 
+Lead In: R03564.00[1:1]
+Default Next Question: R03566.00
+--------------------------------------------------------------------------------
+R03568.00    [YSAQ-346]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R UNHAPPY, SAD, DEPRESSED (FEMALE)
+ 
+You are unhappy, sad, or depressed.
+ 
+Copyright Items: TM Achenbach. Reproduced by Permission
+ 
+UNIVERSE: R <= 14 at end of prev year; is female
+ 
+    1327       0 NOT TRUE
+    1030       1 SOMEWHAT/SOMETIMES TRUE
+     252       2 OFTEN TRUE
+  -------
+    2609
+ 
+Refusal(-1)            4
+Don't Know(-2)         0
+Invalid Skip(-3)       7
+TOTAL =========>    2620   VALID SKIP(-4)    6364     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              2        Mean:                 .59
+ 
+Lead In: R03567.00[Default]
+Default Next Question: R03573.00
+--------------------------------------------------------------------------------
+R03571.00    [YSAQ-349]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R LIES OR CHEATS (MALE)
+ 
+You lie or cheat.
+ 
+Copyright Items: TM Achenbach. Reproduced by Permission
+ 
+UNIVERSE: R <= 14 at end of prev year; is male
+ 
+    1545       0 NOT TRUE
+    1138       1 SOMEWHAT/SOMETIMES TRUE
+     108       2 OFTEN TRUE
+  -------
+    2791
+ 
+Refusal(-1)            5
+Don't Know(-2)         3
+Invalid Skip(-3)       1
+TOTAL =========>    2800   VALID SKIP(-4)    6184     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              2        Mean:                 .49
+ 
+Lead In: R03570.00[Default]
+Default Next Question: R03572.00
+--------------------------------------------------------------------------------
+R03572.00    [YSAQ-350]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R UNHAPPY, SAD, DEPRESSED (MALE)
+ 
+You are unhappy, sad, or depressed.
+ 
+Copyright Items: TM Achenbach. Reproduced by Permission
+ 
+UNIVERSE: R <= 14 at end of prev year; is male
+ 
+    1629       0 NOT TRUE
+     998       1 SOMEWHAT/SOMETIMES TRUE
+     163       2 OFTEN TRUE
+  -------
+    2790
+ 
+Refusal(-1)            5
+Don't Know(-2)         4
+Invalid Skip(-3)       1
+TOTAL =========>    2800   VALID SKIP(-4)    6184     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              2        Mean:                 .47
+ 
+Lead In: R03571.00[Default]
+Default Next Question: R03573.00
+--------------------------------------------------------------------------------
+R03575.00    [YSAQ-354]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R EXPECTS BEST IN UNCERTAIN TIMES (AGREE/DISAGREE)
+ 
+The following statements describe the way some people may feel about themselves.
+After each statement, please indicate whether you strongly disagree, disagree, 
+agree, or strongly agree ...
+ 
+In uncertain times, I usually expect the best.
+ 
+UNIVERSE: R is <= 14
+ 
+     337       1 STRONGLY DISAGREE
+    1037       2 DISAGREE
+    3243       3 AGREE
+     766       4 STRONGLY AGREE
+  -------
+    5383
+ 
+Refusal(-1)            9
+Don't Know(-2)        26
+Invalid Skip(-3)       2
+TOTAL =========>    5420   VALID SKIP(-4)    3564     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                2.82
+ 
+Lead In: R03574.00[1:1]
+Default Next Question: R03576.00
+--------------------------------------------------------------------------------
+R03576.00    [YSAQ-355]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R RARELY EXPECTS GOOD THINGS (AGREE/DISAGREE)
+ 
+I rarely count on good things happening to me.
+ 
+UNIVERSE: R is <= 14
+ 
+    1113       1 STRONGLY DISAGREE
+    1898       2 DISAGREE
+    1817       3 AGREE
+     577       4 STRONGLY AGREE
+  -------
+    5405
+ 
+Refusal(-1)            6
+Don't Know(-2)         7
+Invalid Skip(-3)       2
+TOTAL =========>    5420   VALID SKIP(-4)    3564     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                2.34
+ 
+Lead In: R03575.00[Default]
+Default Next Question: R03577.00
+--------------------------------------------------------------------------------
+R03577.00    [YSAQ-356]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R OPTIMISTIC ABOUT FUTURE (AGREE/DISAGREE)
+ 
+I'm always optimistic about my future.
+ 
+UNIVERSE: R is <= 14
+ 
+     290       1 STRONGLY DISAGREE
+     738       2 DISAGREE
+    2754       3 AGREE
+    1598       4 STRONGLY AGREE
+  -------
+    5380
+ 
+Refusal(-1)            9
+Don't Know(-2)        28
+Invalid Skip(-3)       2
+TOTAL =========>    5419   VALID SKIP(-4)    3565     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                3.05
+ 
+Lead In: R03576.00[Default]
+Default Next Question: R03578.00
+--------------------------------------------------------------------------------
+R03578.00    [YSAQ-357]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             HARDLY EXPECT THINGS TO GO RS WAY (AGREE/DISAGREE)
+ 
+I hardly ever expect things to go my way.
+ 
+UNIVERSE: R is <= 14
+ 
+    1114       1 STRONGLY DISAGREE
+    2360       2 DISAGREE
+    1620       3 AGREE
+     303       4 STRONGLY AGREE
+  -------
+    5397
+ 
+Refusal(-1)            7
+Don't Know(-2)        13
+Invalid Skip(-3)       2
+TOTAL =========>    5419   VALID SKIP(-4)    3565     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                2.21
+ 
+Lead In: R03577.00[Default]
+Default Next Question: R03579.00
+--------------------------------------------------------------------------------
+R04439.00    [YSAQ-517]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             HOUSE OR APARTMENT BROKEN INTO < 12 YEARS OLD?
+ 
+The following questions are about things you may have experienced before you 
+turned age 12.
+ 
+Before you turned age 12, did you ever have your house or apartment broken into?
+ 
+UNIVERSE: R >= 18 at end of prev year
+ 
+    1345       1 Yes
+    7476       0 No
+  -------
+    8821
+ 
+Refusal(-1)           14
+Don't Know(-2)        22
+Invalid Skip(-3)     126
+TOTAL =========>    8983   VALID SKIP(-4)       1     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              1        Mean:                 .15
+ 
+Lead In: R04438.00[Default]
+Default Next Question: R04440.00
+--------------------------------------------------------------------------------
+R04440.00    [YSAQ-518]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R VICTIM OF BULLYING < 12 YEARS OLD?
+ 
+Before you turned age 12, were you ever the victim of repeated bullying?
+ 
+UNIVERSE: R >= 18 at end of prev year
+ 
+    1713       1 Yes
+    7120       0 No
+  -------
+    8833
+ 
+Refusal(-1)           13
+Don't Know(-2)        11
+Invalid Skip(-3)     126
+TOTAL =========>    8983   VALID SKIP(-4)       1     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              1        Mean:                 .19
+ 
+Lead In: R04439.00[Default]
+Default Next Question: R04441.00
+--------------------------------------------------------------------------------
+R04441.00    [YSAQ-519]                                     Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             R SEE SOMEONE SHOT WITH GUN < 12 YEARS OLD?
+ 
+Before you turned age 12, did you ever see someone get shot or shot at with a 
+gun?
+ 
+UNIVERSE: R >= 18 at end of prev year
+ 
+     975       1 Yes   (Go To R04442.00)
+    7859       0 No
+  -------
+    8834
+ 
+Refusal(-1)           14
+Don't Know(-2)         9
+Invalid Skip(-3)     126
+TOTAL =========>    8983   VALID SKIP(-4)       1     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              1        Mean:                 .11
+ 
+Lead In: R04440.00[Default]
+Default Next Question: R04443.00
+--------------------------------------------------------------------------------
+R05363.00    [KEY!SEX]                                      Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             KEY!SEX, RS GENDER (SYMBOL)
+ 
+COMMENT: Gender of Youth
+ 
+    4599       1 Male
+    4385       2 Female
+       0       0 No Information
+  -------
+    8984
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              2        Mean:                1.49
+ 
+Lead In: R00001.00[Default]
+Default Next Question: R05364.00
+--------------------------------------------------------------------------------
+R05364.01    [KEY!BDATE_M]                                  Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             KEY!BDATE, RS BIRTHDATE MONTH/YEAR (SYMBOL)
+ 
+COMMENT: Birthdate of Youth
+ 
+     816           1: January
+     693           2: February
+     760           3: March
+     659           4: April
+     689           5: May
+     720           6: June
+     762           7: July
+     782           8: August
+     839           9: September
+     765          10: October
+     763          11: November
+     736          12: December
+  -------
+    8984
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:             12        Mean:                6.56
+ 
+Earliest (NonMissing): JANUARY/1980
+Latest   (NonMissing): DECEMBER/1984
+ 
+Lead In: None.
+Default Next Question: R05364.02
+--------------------------------------------------------------------------------
+R05364.02    [KEY!BDATE_Y]                                  Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             KEY!BDATE, RS BIRTHDATE MONTH/YEAR (SYMBOL)
+ 
+COMMENT: Birthdate of Youth
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:           1980        Max:           1984        Mean:             1982.01
+ 
+Earliest (NonMissing): JANUARY/1980
+Latest   (NonMissing): DECEMBER/1984
+ 
+Lead In: R05364.01[Default]
+Default Next Question: R05366.00
+--------------------------------------------------------------------------------
+R11941.00    [CV_AGE_INT_DATE]                              Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0           0 TO 11: LESS THAN 12
+    1247          12
+    1713          13
+    1869          14
+    1878          15
+    1710          16
+     551          17
+      16          18
+       0          19 TO 999: GREATER THAN 18
+  -------
+    8984
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:             12        Max:             18        Mean:               14.31
+ 
+Lead In: R11940.00[Default]
+Default Next Question: R11980.00
+--------------------------------------------------------------------------------
+R12049.00    [CV_HH_POV_RATIO]                              Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     125           0
+    1396           1 TO 99: .01-.99
+    1392         100 TO 199: 1.00-1.99
+    1289         200 TO 299: 2.00-2.99
+     962         300 TO 399: 3.00-3.99
+     573         400 TO 499: 4.00-4.99
+     321         500 TO 599: 5.00-5.99
+     174         600 TO 699: 6.00-6.99
+      89         700 TO 799: 7.00-7.99
+      56         800 TO 899: 8.00-8.99
+      44         900 TO 999: 9.00-9.99
+       7        1000 TO 1099: 10.00-10.99
+       0        1100 TO 1199: 11.00-11.99
+       0        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+     133        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    6561
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1485
+TOTAL =========>    8046   VALID SKIP(-4)     938     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:           1627        Mean:              283.18
+ 
+Lead In: R12048.00[Default]
+Default Next Question: R12050.00
+--------------------------------------------------------------------------------
+R12055.00    [CV_HH_UNDER_18]                               Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+       3           0
+    2069           1
+    3314           2
+    2065           3
+     931           4
+     372           5
+     122           6
+      61           7
+      38           8
+       6           9
+       1          10
+       0          11
+       2          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    8984
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:             12        Mean:                2.45
+ 
+Lead In: R12054.00[Default]
+Default Next Question: R12056.00
+--------------------------------------------------------------------------------
+R12358.00    [CV_SAMPLE_TYPE]                               Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             SAMPLE TYPE.  CROSS-SECTIONAL OR OVERSAMPLE
+ 
+Sample type: Is the respondent a member of the cross-sectional sample or the 
+oversample?
+ 
+    6748       1 Cross-sectional
+    2236       0 Oversample
+  -------
+    8984
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:              1        Mean:                 .75
+ 
+Lead In: R12338.00[Default]
+Default Next Question: R12359.00
+--------------------------------------------------------------------------------
+R13026.00    [CV_HGC_RES_DAD]                               Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             RESIDENTIAL FATHERS HIGHEST GRADE COMPLETED
+ 
+Highest grade completed by respondent's residential father (includes both 
+biological and non-biological fathers).
+ 
+       0       0 NONE
+       1       1 1ST GRADE
+      12       2 2ND GRADE
+      51       3 3RD GRADE
+      56       4 4TH GRADE
+      51       5 5TH GRADE
+     150       6 6TH GRADE
+      69       7 7TH GRADE
+     117       8 8TH GRADE
+     186       9 9TH GRADE
+     195      10 10TH GRADE
+     277      11 11TH GRADE
+    1917      12 12TH GRADE
+     345      13 1ST YEAR COLLEGE
+     720      14 2ND YEAR COLLEGE
+     164      15 3RD YEAR COLLEGE
+     780      16 4TH YEAR COLLEGE
+     119      17 5TH YEAR COLLEGE
+     255      18 6TH YEAR COLLEGE
+      86      19 7TH YEAR COLLEGE
+     153      20 8TH YEAR COLLEGE OR MORE
+       3      95 UNGRADED
+  -------
+    5707
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     367
+TOTAL =========>    6074   VALID SKIP(-4)    2910     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:             95        Mean:               12.92
+ 
+Lead In: R13025.00[Default]
+Default Next Question: R13027.00
+--------------------------------------------------------------------------------
+R13027.00    [CV_HGC_RES_MOM]                               Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             RESIDENTIAL MOTHERS HIGHEST GRADE COMPLETED
+ 
+Highest grade completed by respondent's residential mother (includes both 
+biological and non-biological mothers).
+ 
+       0       0 NONE
+       3       1 1ST GRADE
+      28       2 2ND GRADE
+      51       3 3RD GRADE
+      54       4 4TH GRADE
+      54       5 5TH GRADE
+     221       6 6TH GRADE
+      67       7 7TH GRADE
+     183       8 8TH GRADE
+     260       9 9TH GRADE
+     373      10 10TH GRADE
+     517      11 11TH GRADE
+    2870      12 12TH GRADE
+     639      13 1ST YEAR COLLEGE
+     996      14 2ND YEAR COLLEGE
+     251      15 3RD YEAR COLLEGE
+     902      16 4TH YEAR COLLEGE
+     163      17 5TH YEAR COLLEGE
+     246      18 6TH YEAR COLLEGE
+      38      19 7TH YEAR COLLEGE
+      89      20 8TH YEAR COLLEGE OR MORE
+       5      95 UNGRADED
+  -------
+    8010
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     316
+TOTAL =========>    8326   VALID SKIP(-4)     658     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:             95        Mean:               12.58
+ 
+Lead In: R13026.00[Default]
+Default Next Question: R12045.00
+--------------------------------------------------------------------------------
+R14826.00    [KEY!RACE_ETHNICITY]                           Survey Year: 1997
+  PRIMARY VARIABLE
+
+ 
+             KEY!RACE_ETHNICITY, COMBINED RACE AND ETHNICITY (SYMBOL)
+ 
+COMMENT: Combined race - ethnicity variable
+ 
+    2335       1 Black
+    1901       2 Hispanic
+      83       3 Mixed Race (Non-Hispanic)
+    4665       4 Non-Black / Non-Hispanic
+  -------
+    8984
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8984   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:              4        Mean:                2.79
+ 
+Lead In: R05387.00[Default]
+Default Next Question: R05389.00
+--------------------------------------------------------------------------------
+R25535.00    [CV_AGE_INT_DATE]                              Survey Year: 1998
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0           0 TO 11: LESS THAN 12
+       0          12
+     153          13
+    1625          14
+    1668          15
+    1735          16
+    1736          17
+    1391          18
+      78          19 TO 999: GREATER THAN 18
+  -------
+    8386
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8386   VALID SKIP(-4)       0     NON-INTERVIEW(-5)     598
+ 
+Min:             13        Max:             19        Mean:               15.93
+ 
+Lead In: R25534.00[Default]
+Default Next Question: R25559.00
+--------------------------------------------------------------------------------
+R25635.00    [CV_HH_POV_RATIO]                              Survey Year: 1998
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+      76           0
+     273           1 TO 99: .01-.99
+     183         100 TO 199: 1.00-1.99
+     148         200 TO 299: 2.00-2.99
+     119         300 TO 399: 3.00-3.99
+      88         400 TO 499: 4.00-4.99
+      49         500 TO 599: 5.00-5.99
+      36         600 TO 699: 6.00-6.99
+      15         700 TO 799: 7.00-7.99
+       4         800 TO 899: 8.00-8.99
+       1         900 TO 999: 9.00-9.99
+       0        1000 TO 1099: 10.00-10.99
+       0        1100 TO 1199: 11.00-11.99
+       0        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+      33        3000 TO 9999: 30.00+
+  -------
+    1025
+ 
+Refusal(-1)           24
+Don't Know(-2)       724
+Invalid Skip(-3)      57
+TOTAL =========>    1830   VALID SKIP(-4)    6556     NON-INTERVIEW(-5)     598
+ 
+Min:              0        Max:           3227        Mean:              321.03
+ 
+Lead In: R25634.00[Default]
+Default Next Question: R25636.00
+--------------------------------------------------------------------------------
+R25638.00    [CV_HH_UNDER_18]                               Survey Year: 1998
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+     584           0
+    2457           1
+    2717           2
+    1509           3
+     699           4
+     223           5
+     113           6
+      39           7
+      10           8
+       2           9
+       7          10
+       6          11
+       3          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    8369
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      17
+TOTAL =========>    8386   VALID SKIP(-4)       0     NON-INTERVIEW(-5)     598
+ 
+Min:              0        Max:             12        Mean:                 2.1
+ 
+Lead In: R25637.00[Default]
+Default Next Question: R25639.00
+--------------------------------------------------------------------------------
+R38763.00    [CV_AGE_INT_DATE]                              Survey Year: 1999
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0           0 TO 11: LESS THAN 12
+       0          12
+       0          13
+     176          14
+    1665          15
+    1641          16
+    1721          17
+    1615          18
+    1390          19 TO 999: GREATER THAN 18
+  -------
+    8208
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8208   VALID SKIP(-4)       0     NON-INTERVIEW(-5)     776
+ 
+Min:             14        Max:             20        Mean:               16.87
+ 
+Lead In: R38762.00[Default]
+Default Next Question: R38789.00
+--------------------------------------------------------------------------------
+R38851.00    [CV_HH_POV_RATIO]                              Survey Year: 1999
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     155           0
+     577           1 TO 99: .01-.99
+     465         100 TO 199: 1.00-1.99
+     315         200 TO 299: 2.00-2.99
+     308         300 TO 399: 3.00-3.99
+     212         400 TO 499: 4.00-4.99
+     111         500 TO 599: 5.00-5.99
+      97         600 TO 699: 6.00-6.99
+      46         700 TO 799: 7.00-7.99
+      32         800 TO 899: 8.00-8.99
+      24         900 TO 999: 9.00-9.99
+      16        1000 TO 1099: 10.00-10.99
+      14        1100 TO 1199: 11.00-11.99
+       9        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+      49        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    2430
+ 
+Refusal(-1)           45
+Don't Know(-2)       576
+Invalid Skip(-3)      53
+TOTAL =========>    3104   VALID SKIP(-4)    5104     NON-INTERVIEW(-5)     776
+ 
+Min:              0        Max:           2009        Mean:              299.66
+ 
+Lead In: R38850.00[Default]
+Default Next Question: R38852.00
+--------------------------------------------------------------------------------
+R38854.00    [CV_HH_UNDER_18]                               Survey Year: 1999
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    1216           0
+    2704           1
+    2327           2
+    1172           3
+     472           4
+     172           5
+      90           6
+      24           7
+       8           8
+       4           9
+       4          10
+       1          11
+       1          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    8195
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      12
+TOTAL =========>    8207   VALID SKIP(-4)       1     NON-INTERVIEW(-5)     776
+ 
+Min:              0        Max:             12        Mean:                1.77
+ 
+Lead In: R38853.00[Default]
+Default Next Question: R38855.00
+--------------------------------------------------------------------------------
+R54537.00    [CV_AGE_INT_DATE]                              Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0          14
+      94          15
+    1588          16
+    1679          17
+    1656          18
+    1594          19
+    1365          20
+     104          21 TO 100: Age 21 and older
+  -------
+    8080
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8080   VALID SKIP(-4)       0     NON-INTERVIEW(-5)     904
+ 
+Min:             15        Max:             21        Mean:               17.94
+ 
+Lead In: R54536.00[Default]
+Default Next Question: R54565.00
+--------------------------------------------------------------------------------
+R54643.00    [CV_HH_POV_RATIO]                              Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     175           0
+     795           1 TO 99: .01-.99
+     652         100 TO 199: 1.00-1.99
+     500         200 TO 299: 2.00-2.99
+     414         300 TO 399: 3.00-3.99
+     314         400 TO 499: 4.00-4.99
+     199         500 TO 599: 5.00-5.99
+     153         600 TO 699: 6.00-6.99
+      70         700 TO 799: 7.00-7.99
+      48         800 TO 899: 8.00-8.99
+      24         900 TO 999: 9.00-9.99
+      21        1000 TO 1099: 10.00-10.99
+      11        1100 TO 1199: 11.00-11.99
+       0        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+      88        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    3464
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1119
+TOTAL =========>    4583   VALID SKIP(-4)    3497     NON-INTERVIEW(-5)     904
+ 
+Min:              0        Max:           1689        Mean:              302.81
+ 
+Lead In: R54642.00[Default]
+Default Next Question: R54644.00
+--------------------------------------------------------------------------------
+R54646.00    [CV_HH_UNDER_18]                               Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    2222           0
+    2577           1
+    1823           2
+     888           3
+     333           4
+     131           5
+      62           6
+      28           7
+       5           8
+       3           9
+       1          10
+       0          11
+       1          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    8074
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       6
+TOTAL =========>    8080   VALID SKIP(-4)       0     NON-INTERVIEW(-5)     904
+ 
+Min:              0        Max:             12        Mean:                1.43
+ 
+Lead In: R54645.00[Default]
+Default Next Question: R54647.00
+--------------------------------------------------------------------------------
+R72160.00    [CV_AGE_INT_DATE]                              Survey Year: 2001
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0          14
+       0          15
+     107          16
+    1577          17
+    1619          18
+    1610          19
+    1576          20
+    1318          21
+      75          22 TO 100: Age 22 or greater
+  -------
+    7882
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7882   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1102
+ 
+Min:             16        Max:             22        Mean:               18.92
+ 
+Lead In: R72159.00[Default]
+Default Next Question: R72190.00
+--------------------------------------------------------------------------------
+R72280.00    [CV_HH_POV_RATIO]                              Survey Year: 2001
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     235           0
+     980           1 TO 99: .01-.99
+     941         100 TO 199: 1.00-1.99
+     760         200 TO 299: 2.00-2.99
+     619         300 TO 399: 3.00-3.99
+     418         400 TO 499: 4.00-4.99
+     299         500 TO 599: 5.00-5.99
+     195         600 TO 699: 6.00-6.99
+     108         700 TO 799: 7.00-7.99
+      92         800 TO 899: 8.00-8.99
+      34         900 TO 999: 9.00-9.99
+      22        1000 TO 1099: 10.00-10.99
+      12        1100 TO 1199: 11.00-11.99
+       0        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+     129        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    4844
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1049
+TOTAL =========>    5893   VALID SKIP(-4)    1989     NON-INTERVIEW(-5)    1102
+ 
+Min:              0        Max:           1720        Mean:              312.61
+ 
+Lead In: R72279.00[Default]
+Default Next Question: R72281.00
+--------------------------------------------------------------------------------
+R72283.00    [CV_HH_UNDER_18]                               Survey Year: 2001
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    2991           0
+    2428           1
+    1406           2
+     619           3
+     273           4
+     102           5
+      31           6
+      18           7
+       6           8
+       1           9
+       2          10
+       1          11
+       0          12
+       1          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7879
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       3
+TOTAL =========>    7882   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1102
+ 
+Min:              0        Max:             13        Mean:                1.16
+ 
+Lead In: R72282.00[Default]
+Default Next Question: R72284.00
+--------------------------------------------------------------------------------
+S15314.00    [CV_AGE_INT_DATE]                              Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0          14
+       0          15
+       0          16
+       1          17
+    1681          18
+    1588          19
+    1657          20
+    1568          21
+    1401          22 TO 100: Age 22 or greater
+  -------
+    7896
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7896   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1088
+ 
+Min:             17        Max:             23        Mean:               19.94
+ 
+Lead In: S15313.00[Default]
+Default Next Question: S15346.00
+--------------------------------------------------------------------------------
+S15419.00    [CV_HH_POV_RATIO]                              Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     251           0
+    1256           1 TO 99: .01-.99
+    1112         100 TO 199: 1.00-1.99
+     938         200 TO 299: 2.00-2.99
+     752         300 TO 399: 3.00-3.99
+     524         400 TO 499: 4.00-4.99
+     400         500 TO 599: 5.00-5.99
+     234         600 TO 699: 6.00-6.99
+     144         700 TO 799: 7.00-7.99
+     112         800 TO 899: 8.00-8.99
+      52         900 TO 999: 9.00-9.99
+      17        1000 TO 1099: 10.00-10.99
+       0        1100 TO 1199: 11.00-11.99
+       0        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+     160        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    5952
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1276
+TOTAL =========>    7228   VALID SKIP(-4)     668     NON-INTERVIEW(-5)    1088
+ 
+Min:              0        Max:           1521        Mean:               308.5
+ 
+Lead In: S15418.00[Default]
+Default Next Question: S15420.00
+--------------------------------------------------------------------------------
+S15422.00    [CV_HH_UNDER_18]                               Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    3916           0
+    2210           1
+    1086           2
+     412           3
+     163           4
+      64           5
+      30           6
+       4           7
+       5           8
+       1           9
+       1          10
+       0          11
+       0          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7892
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       4
+TOTAL =========>    7896   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1088
+ 
+Min:              0        Max:             10        Mean:                 .87
+ 
+Lead In: S15421.00[Default]
+Default Next Question: S15423.00
+--------------------------------------------------------------------------------
+S20010.00    [CV_AGE_INT_DATE]                              Survey Year: 2003
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+     166          18
+    1512          19
+    1601          20
+    1599          21
+    1560          22
+    1257          23
+      59          24 TO 100: Age 24 or greater
+  -------
+    7754
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7754   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1230
+ 
+Min:             18        Max:             24        Mean:               20.89
+ 
+Lead In: S20009.00[Default]
+Default Next Question: S20044.00
+--------------------------------------------------------------------------------
+S20117.00    [CV_HH_POV_RATIO]                              Survey Year: 2003
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     191           0
+    1503           1 TO 99: .01-.99
+    1206         100 TO 199: 1.00-1.99
+    1034         200 TO 299: 2.00-2.99
+     767         300 TO 399: 3.00-3.99
+     563         400 TO 499: 4.00-4.99
+     319         500 TO 599: 5.00-5.99
+     235         600 TO 699: 6.00-6.99
+     148         700 TO 799: 7.00-7.99
+      98         800 TO 899: 8.00-8.99
+      46         900 TO 999: 9.00-9.99
+      27        1000 TO 1099: 10.00-10.99
+       0        1100 TO 1199: 11.00-11.99
+       0        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+     171        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    6308
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1446
+TOTAL =========>    7754   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1230
+ 
+Min:              0        Max:           1420        Mean:               294.9
+ 
+Lead In: S20116.00[Default]
+Default Next Question: S20118.00
+--------------------------------------------------------------------------------
+S20120.00    [CV_HH_UNDER_18]                               Survey Year: 2003
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    4279           0
+    1906           1
+    1019           2
+     334           3
+     141           4
+      45           5
+      16           6
+       6           7
+       3           8
+       0           9
+       0          10
+       0          11
+       0          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7749
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       5
+TOTAL =========>    7754   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1230
+ 
+Min:              0        Max:              8        Mean:                 .76
+ 
+Lead In: S20119.00[Default]
+Default Next Question: S20121.00
+--------------------------------------------------------------------------------
+S20122.01    [CV_HIGHEST_DEGREE_EVER_EDT]                   Survey Year: 2003
+  SECONDARY VARIABLE
+
+ 
+             HIGHEST DEGREE RECEIVED EDT
+ 
+The highest degree received as of the survey date (edited).
+ 
+NOTE: This round-specific variable has been converted to a cumulative version, 
+which includes data across all interivew rounds regardless of interview status. 
+Cumulative variables have a "survey round" of XRND (across rounds). The 
+cumulative version of this variable can be found by searching for the same 
+question name, replacing CV_ with CVC_.
+ 
+    1290       0 None
+     599       1 GED
+    5292       2 High school diploma (Regular 12 year program)
+     202       3 Associate/Junior college (AA)
+     346       4 Bachelor's degree (BA, BS)
+       4       5 Master's degree (MA, MS)
+       0       6 PhD
+       0       7 Professional degree (DDS, JD, MD)
+  -------
+    7733
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      21
+TOTAL =========>    7754   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1230
+ 
+Min:              0        Max:              5        Mean:                1.71
+ 
+Lead In: S20122.00[Default]
+Default Next Question: S20123.00
+--------------------------------------------------------------------------------
+S38011.00    [CV_AGE_INT_DATE]                              Survey Year: 2004
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0          18
+     105          19
+    1487          20
+    1503          21
+    1573          22
+    1508          23
+    1326          24 TO 100: Age 24 or greater
+  -------
+    7502
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7502   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1482
+ 
+Min:             19        Max:             25        Mean:               21.92
+ 
+Lead In: S38010.00[Default]
+Default Next Question: S38047.00
+--------------------------------------------------------------------------------
+S38125.00    [CV_HH_POV_RATIO]                              Survey Year: 2004
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     155           0
+    1305           1 TO 99: .01-.99
+    1081         100 TO 199: 1.00-1.99
+     939         200 TO 299: 2.00-2.99
+     708         300 TO 399: 3.00-3.99
+     497         400 TO 499: 4.00-4.99
+     369         500 TO 599: 5.00-5.99
+     247         600 TO 699: 6.00-6.99
+     151         700 TO 799: 7.00-7.99
+     114         800 TO 899: 8.00-8.99
+      75         900 TO 999: 9.00-9.99
+      52        1000 TO 1099: 10.00-10.99
+      40        1100 TO 1199: 11.00-11.99
+      25        1200 TO 1299: 12.00-12.99
+      13        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+     163        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    5934
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1568
+TOTAL =========>    7502   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1482
+ 
+Min:              0        Max:           2627        Mean:              360.51
+ 
+Lead In: S38124.00[Default]
+Default Next Question: S38134.00
+--------------------------------------------------------------------------------
+S38135.00    [CV_HH_UNDER_18]                               Survey Year: 2004
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    4352           0
+    1670           1
+     931           2
+     360           3
+     125           4
+      43           5
+      11           6
+       3           7
+       1           8
+       0           9
+       0          10
+       0          11
+       0          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7496
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       6
+TOTAL =========>    7502   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1482
+ 
+Min:              0        Max:              8        Mean:                 .72
+ 
+Lead In: S38134.00[Default]
+Default Next Question: S38136.00
+--------------------------------------------------------------------------------
+S38137.01    [CV_HIGHEST_DEGREE_EVER_EDT]                   Survey Year: 2004
+  SECONDARY VARIABLE
+
+ 
+             HIGHEST DEGREE RECEIVED EDT
+ 
+The highest degree received as of the survey date (edited).
+ 
+NOTE: This round-specific variable has been converted to a cumulative version, 
+which includes data across all interivew rounds regardless of interview status. 
+Cumulative variables have a "survey round" of XRND (across rounds). The 
+cumulative version of this variable can be found by searching for the same 
+question name, replacing CV_ with CVC_.
+ 
+    1057       0 None
+     634       1 GED
+    4859       2 High school diploma (Regular 12 year program)
+     298       3 Associate/Junior college (AA)
+     611       4 Bachelor's degree (BA, BS)
+      17       5 Master's degree (MA, MS)
+       0       6 PhD
+       1       7 Professional degree (DDS, JD, MD)
+  -------
+    7477
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      25
+TOTAL =========>    7502   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1482
+ 
+Min:              0        Max:              7        Mean:                1.84
+ 
+Lead In: S38137.00[Default]
+Default Next Question: S38138.00
+--------------------------------------------------------------------------------
+S54010.00    [CV_AGE_INT_DATE]                              Survey Year: 2005
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+     130          20
+    1445          21
+    1507          22
+    1549          23
+    1469          24
+    1189          25
+      49          26
+       0          27 TO 99: Age 27 or greater
+  -------
+    7338
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7338   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1646
+ 
+Min:             20        Max:             26        Mean:               22.89
+ 
+Lead In: S54009.00[Default]
+Default Next Question: S54048.00
+--------------------------------------------------------------------------------
+S54129.00    [CV_HH_POV_RATIO]                              Survey Year: 2005
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     128           0
+    1240           1 TO 99: .01-.99
+    1229         100 TO 199: 1.00-1.99
+    1022         200 TO 299: 2.00-2.99
+     765         300 TO 399: 3.00-3.99
+     521         400 TO 499: 4.00-4.99
+     383         500 TO 599: 5.00-5.99
+     226         600 TO 699: 6.00-6.99
+     168         700 TO 799: 7.00-7.99
+     113         800 TO 899: 8.00-8.99
+      53         900 TO 999: 9.00-9.99
+      51        1000 TO 1099: 10.00-10.99
+      25        1100 TO 1199: 11.00-11.99
+      14        1200 TO 1299: 12.00-12.99
+       3        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+     161        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    6102
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1236
+TOTAL =========>    7338   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1646
+ 
+Min:              0        Max:           2025        Mean:              336.87
+ 
+Lead In: S54128.00[Default]
+Default Next Question: S54130.00
+--------------------------------------------------------------------------------
+S54131.00    [CV_HH_UNDER_18]                               Survey Year: 2005
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    4316           0
+    1543           1
+     924           2
+     377           3
+      92           4
+      36           5
+      21           6
+      11           7
+       3           8
+       1           9
+       0          10
+       0          11
+       0          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7324
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      14
+TOTAL =========>    7338   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1646
+ 
+Min:              0        Max:              9        Mean:                 .72
+ 
+Lead In: S54130.00[Default]
+Default Next Question: S54132.00
+--------------------------------------------------------------------------------
+S54133.00    [CV_HIGHEST_DEGREE_EVER_EDT]                   Survey Year: 2005
+  SECONDARY VARIABLE
+
+ 
+             HIGHEST DEGREE RECEIVED
+ 
+The highest degree received as of the survey date.
+ 
+NOTE: This round-specific variable has been converted to a cumulative version, 
+which includes data across all interivew rounds regardless of interview status. 
+Cumulative variables have a "survey round" of XRND (across rounds). The 
+cumulative version of this variable can be found by searching for the same 
+question name, replacing CV_ with CVC_.
+ 
+     957       0 None
+     712       1 GED
+    4383       2 High school diploma (Regular 12 year program)
+     346       3 Associate/Junior college (AA)
+     883       4 Bachelor's degree (BA, BS)
+      32       5 Master's degree (MA, MS)
+       0       6 PhD
+       4       7 Professional degree (DDS, JD, MD)
+  -------
+    7317
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      21
+TOTAL =========>    7338   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1646
+ 
+Min:              0        Max:              7        Mean:                1.95
+ 
+Lead In: S54132.00[Default]
+Default Next Question: S54134.00
+--------------------------------------------------------------------------------
+S75012.00    [CV_AGE_INT_DATE]                              Survey Year: 2006
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0          20
+     180          21
+    1494          22
+    1539          23
+    1573          24
+    1537          25
+    1208          26
+      28          27 TO 99: Age 27 or greater
+  -------
+    7559
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7559   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1425
+ 
+Min:             21        Max:             27        Mean:               23.86
+ 
+Lead In: S75011.00[Default]
+Default Next Question: S75052.00
+--------------------------------------------------------------------------------
+S75138.00    [CV_HH_POV_RATIO]                              Survey Year: 2006
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     142           0
+    1183           1 TO 99: .01-.99
+    1267         100 TO 199: 1.00-1.99
+    1012         200 TO 299: 2.00-2.99
+     755         300 TO 399: 3.00-3.99
+     558         400 TO 499: 4.00-4.99
+     354         500 TO 599: 5.00-5.99
+     239         600 TO 699: 6.00-6.99
+     176         700 TO 799: 7.00-7.99
+     117         800 TO 899: 8.00-8.99
+      69         900 TO 999: 9.00-9.99
+      50        1000 TO 1099: 10.00-10.99
+      21        1100 TO 1199: 11.00-11.99
+      27        1200 TO 1299: 12.00-12.99
+       4        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+     166        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    6140
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1419
+TOTAL =========>    7559   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1425
+ 
+Min:              0        Max:           2029        Mean:              343.45
+ 
+Lead In: S75137.00[Default]
+Default Next Question: S75139.00
+--------------------------------------------------------------------------------
+S75140.00    [CV_HH_UNDER_18]                               Survey Year: 2006
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    4370           0
+    1554           1
+    1002           2
+     440           3
+     112           4
+      36           5
+      16           6
+      12           7
+       3           8
+       0           9
+       0          10
+       0          11
+       0          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7545
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      14
+TOTAL =========>    7559   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1425
+ 
+Min:              0        Max:              8        Mean:                 .76
+ 
+Lead In: S75139.00[Default]
+Default Next Question: S75141.00
+--------------------------------------------------------------------------------
+S75142.00    [CV_HIGHEST_DEGREE_EVER_EDT]                   Survey Year: 2006
+  SECONDARY VARIABLE
+
+ 
+             HIGHEST DEGREE RECEIVED
+ 
+The highest degree received as of the survey date.
+ 
+NOTE: This round-specific variable has been converted to a cumulative version, 
+which includes data across all interivew rounds regardless of interview status. 
+Cumulative variables have a "survey round" of XRND (across rounds). The 
+cumulative version of this variable can be found by searching for the same 
+question name, replacing CV_ with CVC_.
+ 
+     954       0 None
+     778       1 GED
+    4142       2 High school diploma (Regular 12 year program)
+     398       3 Associate/Junior college (AA)
+    1213       4 Bachelor's degree (BA, BS)
+      34       5 Master's degree (MA, MS)
+       2       6 PhD
+      13       7 Professional degree (DDS, JD, MD)
+  -------
+    7534
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      25
+TOTAL =========>    7559   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1425
+ 
+Min:              0        Max:              7        Mean:                2.04
+ 
+Lead In: S75141.00[Default]
+Default Next Question: S75143.00
+--------------------------------------------------------------------------------
+T00085.00    [CV_AGE_INT_DATE]                              Survey Year: 2007
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+       0          20
+       0          21
+     235          22
+    1481          23
+    1531          24
+    1526          25
+    1482          26
+    1163          27 TO 99: Age 27 or greater
+  -------
+    7418
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7418   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1566
+ 
+Min:             22        Max:             28        Mean:               24.81
+ 
+Lead In: T00084.00[Default]
+Default Next Question: T00086.00
+--------------------------------------------------------------------------------
+T00142.00    [CV_HH_POV_RATIO]                              Survey Year: 2007
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     117           0
+    1078           1 TO 99: .01-.99
+    1237         100 TO 199: 1.00-1.99
+    1096         200 TO 299: 2.00-2.99
+     831         300 TO 399: 3.00-3.99
+     569         400 TO 499: 4.00-4.99
+     423         500 TO 599: 5.00-5.99
+     263         600 TO 699: 6.00-6.99
+     174         700 TO 799: 7.00-7.99
+     115         800 TO 899: 8.00-8.99
+      68         900 TO 999: 9.00-9.99
+      31        1000 TO 1099: 10.00-10.99
+      38        1100 TO 1199: 11.00-11.99
+      11        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+     179        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+       0        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    6230
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1188
+TOTAL =========>    7418   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1566
+ 
+Min:              0        Max:           1721        Mean:              344.39
+ 
+Lead In: T00141.00[Default]
+Default Next Question: T00143.00
+--------------------------------------------------------------------------------
+T00144.00    [CV_HH_UNDER_18]                               Survey Year: 2007
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    4178           0
+    1530           1
+    1025           2
+     464           3
+     150           4
+      38           5
+      15           6
+       5           7
+       4           8
+       0           9
+       0          10
+       0          11
+       0          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7409
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       9
+TOTAL =========>    7418   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1566
+ 
+Min:              0        Max:              8        Mean:                  .8
+ 
+Lead In: T00143.00[Default]
+Default Next Question: T00145.00
+--------------------------------------------------------------------------------
+T00146.00    [CV_HIGHEST_DEGREE_EVER_EDT]                   Survey Year: 2007
+  SECONDARY VARIABLE
+
+ 
+             HIGHEST DEGREE RECEIVED
+ 
+The highest degree received as of the survey date.
+ 
+NOTE: This round-specific variable has been converted to a cumulative version, 
+which includes data across all interivew rounds regardless of interview status. 
+Cumulative variables have a "survey round" of XRND (across rounds). The 
+cumulative version of this variable can be found by searching for the same 
+question name, replacing CV_ with CVC_.
+ 
+     883       0 None
+     812       1 GED
+    3722       2 High school diploma (Regular 12 year program)
+     434       3 Associate/Junior college (AA)
+    1411       4 Bachelor's degree (BA, BS)
+     103       5 Master's degree (MA, MS)
+       4       6 PhD
+      25       7 Professional degree (DDS, JD, MD)
+  -------
+    7394
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      24
+TOTAL =========>    7418   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1566
+ 
+Min:              0        Max:              7        Mean:                2.15
+ 
+Lead In: T00145.00[Default]
+Default Next Question: T00147.00
+--------------------------------------------------------------------------------
+T20111.00    [CV_AGE_INT_DATE]                              Survey Year: 2008
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+     216          23
+    1472          24
+    1511          25
+    1576          26
+    1519          27
+    1161          28
+      35          29: Age 29 or greater
+  -------
+    7490
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7490   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1494
+ 
+Min:             23        Max:             29        Mean:               25.85
+ 
+Lead In: T20110.00[Default]
+Default Next Question: T20112.00
+--------------------------------------------------------------------------------
+T20163.00    [CV_HH_POV_RATIO]                              Survey Year: 2008
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     167           0
+    1066           1 TO 99: .01-.99
+    1207         100 TO 199: 1.00-1.99
+    1125         200 TO 299: 2.00-2.99
+     850         300 TO 399: 3.00-3.99
+     584         400 TO 499: 4.00-4.99
+     419         500 TO 599: 5.00-5.99
+     275         600 TO 699: 6.00-6.99
+     188         700 TO 799: 7.00-7.99
+     129         800 TO 899: 8.00-8.99
+      74         900 TO 999: 9.00-9.99
+      60        1000 TO 1099: 10.00-10.99
+      51        1100 TO 1199: 11.00-11.99
+      30        1200 TO 1299: 12.00-12.99
+       3        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+     169        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    6397
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)    1093
+TOTAL =========>    7490   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1494
+ 
+Min:              0        Max:           1937        Mean:              357.19
+ 
+Lead In: T20162.00[Default]
+Default Next Question: T20164.00
+--------------------------------------------------------------------------------
+T20165.00    [CV_HH_UNDER_18]                               Survey Year: 2008
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    4015           0
+    1526           1
+    1117           2
+     516           3
+     184           4
+      58           5
+      26           6
+       9           7
+       3           8
+       0           9
+       0          10
+       1          11
+       0          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7455
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      35
+TOTAL =========>    7490   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1494
+ 
+Min:              0        Max:             11        Mean:                 .88
+ 
+Lead In: T20164.00[Default]
+Default Next Question: T20166.00
+--------------------------------------------------------------------------------
+T20167.00    [CV_HIGHEST_DEGREE_EVER_EDT]                   Survey Year: 2008
+  SECONDARY VARIABLE
+
+ 
+             HIGHEST DEGREE RECEIVED
+ 
+The highest degree received as of the survey date.
+ 
+NOTE: This round-specific variable has been converted to a cumulative version, 
+which includes data across all interivew rounds regardless of interview status. 
+Cumulative variables have a "survey round" of XRND (across rounds). The 
+cumulative version of this variable can be found by searching for the same 
+question name, replacing CV_ with CVC_.
+ 
+     888       0 None
+     810       1 GED
+    3606       2 High school diploma (Regular 12 year program)
+     451       3 Associate/Junior college (AA)
+    1500       4 Bachelor's degree (BA, BS)
+     159       5 Master's degree (MA, MS)
+       4       6 PhD
+      43       7 Professional degree (DDS, JD, MD)
+  -------
+    7461
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      29
+TOTAL =========>    7490   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1494
+ 
+Min:              0        Max:              7        Mean:                2.21
+ 
+Lead In: T20166.00[Default]
+Default Next Question: T20168.00
+--------------------------------------------------------------------------------
+T36015.00    [CV_AGE_INT_DATE]                              Survey Year: 2009
+  PRIMARY VARIABLE
+
+ 
+             RS AGE AT INTERVIEW DATE
+ 
+Age as of interview date.
+ 
+     325          24
+    1494          25
+    1569          26
+    1526          27
+    1531          28
+    1102          29
+      12          30 TO 31: Age 30 or greater
+  -------
+    7559
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7559   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1425
+ 
+Min:             24        Max:             30        Mean:               26.77
+ 
+Lead In: T36014.00[Default]
+Default Next Question: T36016.00
+--------------------------------------------------------------------------------
+T36066.00    [CV_HH_POV_RATIO]                              Survey Year: 2009
+  PRIMARY VARIABLE
+
+ 
+             RATIO OF HOUSEHOLD INCOME TO POVERTY LEVEL
+ 
+Ratio of household income to poverty level in the previous year.
+ 
+NOTE: /* Topcoded. 2 IMPLIED DECIMAL PLACES */
+ 
+     165           0
+    1105           1 TO 99: .01-.99
+    1244         100 TO 199: 1.00-1.99
+    1142         200 TO 299: 2.00-2.99
+     916         300 TO 399: 3.00-3.99
+     682         400 TO 499: 4.00-4.99
+     467         500 TO 599: 5.00-5.99
+     285         600 TO 699: 6.00-6.99
+     183         700 TO 799: 7.00-7.99
+     116         800 TO 899: 8.00-8.99
+      72         900 TO 999: 9.00-9.99
+      56        1000 TO 1099: 10.00-10.99
+      28        1100 TO 1199: 11.00-11.99
+       2        1200 TO 1299: 12.00-12.99
+       0        1300 TO 1399: 13.00-13.99
+       0        1400 TO 1499: 14.00-14.99
+       0        1500 TO 1599: 15.00-15.99
+       0        1600 TO 1699: 16.00-16.99
+       0        1700 TO 1799: 17.00-17.99
+       0        1800 TO 1899: 18.00-18.99
+     177        1900 TO 1999: 19.00-19.99
+       0        2000 TO 2999: 20.00-29.99
+       0        3000 TO 9999: 30.00+
+  -------
+    6640
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     919
+TOTAL =========>    7559   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1425
+ 
+Min:              0        Max:           1922        Mean:              349.57
+ 
+Lead In: T36065.00[Default]
+Default Next Question: T36067.00
+--------------------------------------------------------------------------------
+T36068.00    [CV_HH_UNDER_18]                               Survey Year: 2009
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF HOUSEHOLD MEMBERS UNDER AGE 18
+ 
+Number of household members under the age of 18 as of the survey date.
+ 
+    3881           0
+    1554           1
+    1200           2
+     582           3
+     204           4
+      71           5
+      24           6
+      12           7
+       3           8
+       0           9
+       2          10
+       0          11
+       0          12
+       0          13
+       0          14
+       0          15
+       0          16
+       0          17
+       0          18
+       0          19
+       0          20 TO 99: 20+
+  -------
+    7533
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      26
+TOTAL =========>    7559   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1425
+ 
+Min:              0        Max:             10        Mean:                 .95
+ 
+Lead In: T36067.00[Default]
+Default Next Question: T36069.00
+--------------------------------------------------------------------------------
+T36070.00    [CV_HIGHEST_DEGREE_EVER_EDT]                   Survey Year: 2009
+  SECONDARY VARIABLE
+
+ 
+             HIGHEST DEGREE RECEIVED
+ 
+The highest degree received as of the survey date.
+ 
+NOTE: This round-specific variable has been converted to a cumulative version, 
+which includes data across all interivew rounds regardless of interview status. 
+Cumulative variables have a "survey round" of XRND (across rounds). The 
+cumulative version of this variable can be found by searching for the same 
+question name, replacing CV_ with CVC_.
+ 
+     822       0 None
+     877       1 GED
+    3528       2 High school diploma (Regular 12 year program)
+     488       3 Associate/Junior college (AA)
+    1524       4 Bachelor's degree (BA, BS)
+     225       5 Master's degree (MA, MS)
+       8       6 PhD
+      54       7 Professional degree (DDS, JD, MD)
+  -------
+    7526
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      33
+TOTAL =========>    7559   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    1425
+ 
+Min:              0        Max:              7        Mean:                2.26
+ 
+Lead In: T36069.00[Default]
+Default Next Question: T36071.00
