@@ -11,7 +11,7 @@ This paper has a two-fold purpose:
 1. Focus on investigating the **impacts of various social groups** (family, friends/peers/school, and self-assessments) during childhood on future outcomes, where future outcomes are measured by **income and college graduation rate (graduating with a Bachelor's degree) by age 24**. This is an **inferential approach** to determining what factors are **significantly correlated** with the outcome variables.
 2. Generate regression-based **predictive models** to identify at-risk youth. This is a **predictive approach** to building Machine-Learning models in order to **forecast unknown results** and could be used in policymaking in the future.
 
-**The full paper with additional details and explanations can be found in [It Takes a Village.pdf](ADD LINK LATER)**
+**The full paper with additional details and explanations can be found in [It Takes a Village.pdf](https://github.com/mgsong88/It_Takes_A_Village/blob/main/It%20Takes%20a%20Village.pdf)**
 
 ## Data and Methodology
 
@@ -59,7 +59,7 @@ From this paper, one takeaway that combines the inferential and predictive eleme
 Note that a copy of the dataset has already been provided based on the following instructions within this repository.
 If you would like to re-create the steps to obtain a fresh copy of the raw data, please see the following steps.
 
-1. Tagset list used for this paper is provided in [./Programs/varlist.NLSY97](ADD LINK LATER)
+1. Tagset list used for this paper is provided in [./Programs/varlist.NLSY97](https://github.com/mgsong88/It_Takes_A_Village/blob/main/Programs/varlist.NLSY97)
 2. Go to: https://www.nlsinfo.org/investigator
 3. Sign in with account, or enter as a guest
 4. Select the "Choose Tagsets" tab --> "Upload Tagset" --> upload "varlist.NLSY97"
@@ -67,7 +67,7 @@ If you would like to re-create the steps to obtain a fresh copy of the raw data,
 6. Select "Create Download of Data" (default). Check: "R Source Code", "Codebook of selected variables", "Short Description File", "Comma-delimited datafile of selected variables" (use Reference Numbers as Column Headers)
 7. Change "Filename" to anything (I use "data")
 8. Click Download, wait, and download the file when ready (should take a few seconds to prepare)
-9. Unzip to [./Data/](ADD LINK LATER) folder
+9. Unzip to [./Data/](https://github.com/mgsong88/It_Takes_A_Village/tree/main/Data) folder
 10. Done!
 
 ### Running .R Scripts
@@ -75,5 +75,5 @@ If you would like to re-create the steps to obtain a fresh copy of the raw data,
 *Instructions valid as of: May 2023*
 
 1. Follow the above instructions to download the data (a version as of April 2023 is already provided in the Github repo ./Data/ folder)
-2. Run [./Programs/cleanData.R](ADD LINK LATER)
-3. Run [./Programs/runAnalysis.R](ADD LINK LATER)
+2. Run [./Programs/cleanData.R](https://github.com/mgsong88/It_Takes_A_Village/blob/main/Programs/cleanData.R)
+3. Run [./Programs/runAnalysis.R](https://github.com/mgsong88/It_Takes_A_Village/blob/main/Programs/runAnalysis.R)
