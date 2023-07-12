@@ -1,4 +1,4 @@
-# It Takes a Village: Impact of Social Groups on Future Outcomes
+# It Takes a Village: The Impact of Social Groups on Future Outcomes
 
 **Matthew Song**\
 UC Berkeley\
